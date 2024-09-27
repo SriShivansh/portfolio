@@ -12,10 +12,17 @@ body {
 }
 
 header {
-    background: #333;
+    background: #800080;
     color: #fff;
     padding: 20px 0;
 }
+
+header {
+    background: #800080; /* Purple color */
+    color: #fff;
+}
+
+
 
 .container {
     width: 80%;
